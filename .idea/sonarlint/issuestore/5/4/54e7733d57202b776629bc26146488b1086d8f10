@@ -1,2 +1,7 @@
 
-wsquid:S1450"YRemove the "registarse" field and declare it as a local variable in the relevant methods.(è²¶ç8¼±×¡Ð-
+wsquid:S1450"YRemove the "registarse" field and declare it as a local variable in the relevant methods.(è²¶ç8Œò„—Ò-
+isquid:S3027J"FPut single-quotes around '@' to use the faster "indexOf(char)" method.(›»Ûøúÿÿÿÿ8“¶þ—Ò-
+usquid:S1450"WRemove the "ingresar" field and declare it as a local variable in the relevant methods.(³ÄÂ¿8¦‘‡—Ò-
+Vsquid:S1481D"3Remove this unused "authResultTask" local variable.(ö‰ò”ûÿÿÿÿ8“¶þ—Ò-
+esquid:S1854D"BRemove this useless assignment to local variable "authResultTask".(ö‰ò”ûÿÿÿÿ8“¶þ—Ò-
+csquid:UselessImportCheck"3Remove this unused import 'android.text.TextUtils'.(û˜½Õøÿÿÿÿ8ÚæÝ–Ò-

@@ -1,7 +1,4 @@
 
-Xsquid:S1068$"5Remove this unused "databaseReference" private field.(Ï¨Î·ùÿÿÿÿ8²ÄË Ğ-
-}squid:S1450#"_Remove the "firebaseDatabase" field and declare it as a local variable in the relevant methods.(­Õğ»8Ó¢Ø Ğ-
-xsquid:S1450 "URemove the "volver" field and declare it as a local variable in the relevant methods.(««Šøúÿÿÿÿ8¥–’ Ğ-
-|squid:UselessImportCheck"LRemove this unused import 'com.google.android.gms.tasks.OnCanceledListener'.(‹¥Õşÿÿÿÿ8¢² Ğ-
-ƒsquid:S1450$"`Remove the "databaseReference" field and declare it as a local variable in the relevant methods.(Ï¨Î·ùÿÿÿÿ8Ó¢Ø Ğ-
-ssquid:S1450"VRemove the "guardar" field and declare it as a local variable in the relevant methods.(ÔÍ•8¥–’ Ğ-
+xsquid:S1450%"URemove the "volver" field and declare it as a local variable in the relevant methods.(««Šøúÿÿÿÿ8¥–’ Ğ-
+|squid:UselessImportCheck"LRemove this unused import 'com.google.android.gms.tasks.OnCanceledListener'.(‹¥Õşÿÿÿÿ8¢² Ğ-
+}squid:S1450("_Remove the "firebaseDatabase" field and declare it as a local variable in the relevant methods.(­Õğ»8Ó¢Ø Ğ-

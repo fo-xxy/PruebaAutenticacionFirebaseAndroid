@@ -158,7 +158,7 @@ public class RegistroActivity extends AppCompatActivity {
             String pass = clave.getText().toString().trim();
             String pass2 = confirmarClave.getText().toString().trim();
 
-            /*22: validar que los campos esten llenos*/
+            /*22: validar que los campos esten llenos al terminar nos vamos al main*/
             guardar.setEnabled(
                             !valorDocumento.isEmpty() &&
                                     !valorNombre.isEmpty() &&
